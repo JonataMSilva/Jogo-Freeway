@@ -1,6 +1,6 @@
 # Jogo Freeway
 
-Jogo que aprendi fazer na Aula da Alura, ainda estou colocando algumas funcionalidades.
+Jogo que aprendi a fazer na Aula da Alura, ainda estou colocando algumas funcionalidades.
 
 
 
@@ -12,4 +12,4 @@ Projetos
 
 
 obs: elaborado com o p5.js
-Aula de Logica de programação do Guilherme Lima
+Aula de Logica de programação do [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/)
