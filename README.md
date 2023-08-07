@@ -1,4 +1,4 @@
-# Freeway Replica Mini Jogo em p5.js
+# Freeway em p5.js
 
 Este é um mini jogo replicado do clássico jogo "Freeway", desenvolvido utilizando a biblioteca p5.js. O objetivo do jogo é guiar o personagem com segurança através do tráfego intenso de veículos na estrada.
 
@@ -15,9 +15,6 @@ Você pode ajustar algumas configurações do jogo no arquivo sketch.js, como a 
 
 ## Contribuição
 Contribuições são bem-vindas! Se você quiser contribuir para melhorias, correções de bugs ou novos recursos, sinta-se à vontade para fazer um fork deste repositório, fazer as alterações e enviar um pull request.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT, o que significa que você pode utilizá-lo livremente, modificar e distribuir conforme necessário.
 
 Divirta-se jogando o Freeway Replica! Se tiver alguma dúvida, feedback ou sugestão, sinta-se à vontade para entrar em contato via email ou através das issues deste repositório.
 
